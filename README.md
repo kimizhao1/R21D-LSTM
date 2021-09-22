@@ -17,5 +17,5 @@ cudatoolkit
 ```
 
 ## Pretrained Models:
-仅提供前十个动作的训练权重(没有训练全部动作):  
+* 仅提供前十个动作的训练权重(没有训练全部动作):  
 [Baidu Netdisk](https://pan.baidu.com/s/1mf82d9keXXX4Zboq9VxjmA)----code：ah11  
