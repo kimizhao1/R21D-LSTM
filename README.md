@@ -6,7 +6,7 @@
 其中predict.py进行动作识别，train.py进行模型训练，util.py包含数据集的筛选、裁剪和划分。
 
 ## Requirements:  
-```bash
+```python
 pytorch  
 opencv  
 torchvision  
